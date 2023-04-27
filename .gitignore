@@ -1,0 +1,19 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/My.Common
+/My.Dependcys/bin/Debug/net7.0
+/My.Dependcys/obj
+/My.Test1/bin/Debug/net7.0
+/My.Test1/obj/Debug/net7.0
+/My.Test1/obj
+/My.Test2/bin/Debug/net7.0
+/My.Test2/obj/Debug/net7.0
+/My.Test2/obj
+/My.Test3/bin/Debug/net7.0
+/My.Test3/obj
+/My.Test5/bin/Debug/net7.0
+/My.Test5/obj/Debug/net7.0
+/My.Test5/obj
