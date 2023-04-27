@@ -10,6 +10,6 @@
 Web仅引用自己依赖的模块，使用 Microsoft.Extensions.DependencyModel 加载整个项目编辑程序集，进行模块服务注入
 ![1682581942344](https://user-images.githubusercontent.com/49390136/234796401-b8808480-81c2-4267-97b8-2d9da9310580.png)
 
-模块服务调用测试，输出正常
+模块服务调用测试，输出正常，所有模块均已注入成功
 ![1682582144288](https://user-images.githubusercontent.com/49390136/234797219-d19e58d4-e47e-476a-911f-ccdbc6147745.png)
 
